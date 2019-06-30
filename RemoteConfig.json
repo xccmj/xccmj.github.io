@@ -1,0 +1,27 @@
+{
+ "resUrl":"http://192.168.1.12/",
+ "servers": "www.longmenyunding.cn:443",
+ "logUrl": "http://playlog.longmenyunding.cn/",
+ "news": [{"id":"版本发布1.0.0","title":"小长城的一封信","content":"各位牌友,经过几个月的研发，小长城终于和大家见面了,我们不一样，我们追求的是游戏品质,我们不一样,我们追求的是服务质量,希望您在我们的产品中体验的舒畅,方便,简洁,也希望您对产品提出不足和改正之处,谢谢      /n 小长城研发团队","red":false},{"id":"畅爽一夏招代理","title":"合作共赢","content":"各位粉丝,赶紧加入我们吧,详情请联系客服","red":true}],
+ "andUrl":"http://hotassets.longmenyunding.cn/index.html?",
+ "iosUrl":"http://hotassets.longmenyunding.cn/index.html?",
+ "payUrl":"http://admin.longmenyunding.cn:88/payapi/payh5submit?param=",
+ "payLogUrl":"http://admin.longmenyunding.cn:88/public/getPayLog",
+ "weixin":"12345678",
+ "android":{
+ "resVer":0,
+ "appVer":0 
+ },
+ "ios":{
+    "resVer":0,
+    "appVer":0 
+    },
+"Goods": [
+    {"productId": 1,"rmb": 100,"buyNum": 100,"giveNum": 0,"isHot": false,"icon":"1"},
+    {"productId": 2,"rmb": 200,"buyNum": 200,"giveNum": 0,"isHot": false,"icon":"2"},
+    {"productId": 3,"rmb": 300,"buyNum": 300,"giveNum": 0,"isHot": false,"icon":"3"},
+    {"productId": 4,"rmb": 600,"buyNum": 600,"giveNum": 0,"isHot": false,"icon":"4"},
+    {"productId": 5,"rmb": 1000,"buyNum": 1000,"giveNum": 0,"isHot": false,"icon":"5"},
+    {"productId": 6,"rmb": 2000,"buyNum": 2000,"giveNum": 0,"isHot": false,"icon":"6"}
+   ]    
+}
